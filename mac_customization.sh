@@ -11,3 +11,5 @@ then
 fi
 
 defaults write com.apple.screencapture location $DIR
+
+# Install Homebrew
